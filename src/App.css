@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+
+
+.plus {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: rgb(65, 132, 65);
+    font-size: 2rem;
+    font-weight: bold;
+    color: white;
+    outline: none;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.minus {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: red;
+    font-size: 2rem;
+    font-weight: bold;
+    color: white;
+    outline: none;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
